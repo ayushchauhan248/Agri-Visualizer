@@ -27,16 +27,21 @@ Make sure you have the following installed on your machine:
 ### Getting Started
 
 1. Clone the repository to your local machine:
+
    git clone https://github.com/ayushchauhan248/Agri-Visualizer.git
+
    cd Agri-Visualizer
 
 2. Install the project dependencies:
+
    yarn install
 
 3. Run dev server:
+
    yarn dev
 
 ### Deployment URL
+
 https://ayushchauhan248.github.io/Agri-Visualizer/
 
 ![image](https://github.com/user-attachments/assets/a1d02ebf-0ec0-40ec-9e67-60e3c071b640)
